@@ -1,0 +1,10 @@
+go 1.18
+use ./blackjack
+use ./cars-assemble
+use ./party-robot
+use ./vehicle-purchase
+use ./need-for-speed
+use ./card-tricks
+use ./bird-watcher
+use ./animal-magic
+use ./lasagna-master
