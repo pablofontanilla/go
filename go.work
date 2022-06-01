@@ -8,3 +8,4 @@ use ./card-tricks
 use ./bird-watcher
 use ./animal-magic
 use ./lasagna-master
+use ./interest-is-interesting
